@@ -1,0 +1,16 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\bin\Debug\ImagesApp.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\bin\Debug\ImagesApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\bin\Debug\ImagesApp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagesApp.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagesApp_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagesApp_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagesApp.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagesApp.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagesApp.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagesApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagesApp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagePanel.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\ImagesApp\ImagesApp\obj\Debug\ImagePanel.baml
